@@ -13,15 +13,7 @@
     * 单页面应用SPA
     * 轻互动
 5. 混合式App开发Hybrid App
-6. 前端框架/库
-    * ASS http://10.168.0.151:3000/web
-    * MASS http://10.168.0.151:2000/web/tpl/index
-    * QingUI http://10.168.0.151/qingui/index.html
-    * 效率工具 http://10.168.0.151:3000/tool/fit
-7. 其他
-    * 其他依赖于前端技术的中大型项目
-    * 前端技术支持
-    * 前端技术翻译文库 http://10.168.0.151/wenku/
+
 
 ## 常规页面制作
 
@@ -68,7 +60,7 @@
 
 ## 富应用（RIA）
 #### 单页面应用（SPA）（如：广告系统）
-> 单页Web应用（single page web application，SPA），就是只有一张Web页面的应用，是加载单个HTML 页面并在用户与应用程序交互时动态更新该页面的Web应用程序。[详细解释](http://baike.baidu.com/item/SPA/17536313)
+> 单页Web应用（single page web application，SPA），就是只有一张Web页面的应用，是加载单个HTML 页面并在用户与应用程序交互时动态更新该页面的Web应用程序。[详细解释]
 
 * 页面结构、样式
 * 交互JS
@@ -76,8 +68,7 @@
 * 独立人员支持
 
 #### 轻互动
-> 移动端（轻量级）互动专题。[已开发轻互动列表供参考](http://10.168.0.151:2000/web/gallary)
-
+> 移动端（轻量级）互动专题。[已开发轻互动列表供参考]
 * 页面结构、样式
 * 业务JS
 * 交互JS
@@ -85,7 +76,7 @@
     * 新形势：7－15工作日**（注：新形势只在提案库中挑选实现，不接受需求形式）**
 
 ##  混合模式移动应用 （Hybrid App）
-> Hybrid App（混合模式移动应用）是指介于web-app、native-app这两者之间的app，兼具“Native App良好用户交互体验的优势”和“Web App跨平台开发的优势”。[详细解释](http://baike.baidu.com/view/8488720.htm)
+> Hybrid App（混合模式移动应用）是指介于web-app、native-app这两者之间的app，兼具“Native App良好用户交互体验的优势”和“Web App跨平台开发的优势”。
 
 * App框架
 * 接口数据处理展示
